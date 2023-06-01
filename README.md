@@ -1,2 +1,2 @@
 # jupiter
-Jupiter static website files for Docker Container
+Jupiter static-website files for Docker Container
